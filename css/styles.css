@@ -1,0 +1,21 @@
+body {
+    background-color: #fdcfdf;
+}
+
+h1 {
+    color: #b95986;
+    text-shadow: 1px 1px 1px black;
+}
+
+h3 {
+    color: #b95986;
+    text-decoration: underline;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: rgb(124, 87, 122);
+    width: 70%;
+}
